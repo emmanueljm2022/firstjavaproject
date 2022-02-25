@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        
+        System.out.println(" vivek code");
         int marks[][] = new int[][]{{1,2,3,4,5},{5,4,3,2,1},{9,8,7,6,5}};
         for (int i=0;i <3;i++){
             for (int j=0;j <5;j++){
