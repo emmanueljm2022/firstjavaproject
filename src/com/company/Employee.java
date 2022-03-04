@@ -6,6 +6,7 @@ private String name;
 private String address;
 public  Employee(){
     System.out.println("default constr is called");
+    System.out.println("feature 1");
 }
 public Employee(int id, String name, String address){
     this.id= id;
