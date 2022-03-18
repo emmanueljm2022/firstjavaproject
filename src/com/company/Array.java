@@ -1,6 +1,6 @@
 package com.company;
 
-public class array {
+public class Array {
     //1.Declare an array to hold 10 decimal values and calculate sum of this values
 
     public static void main(String[] args) {
